@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "eyebrow": "Written Quotation Before Payment",
+    "heading": "Pricing and Custom Quotations",
+    "intro": "Every order is priced individually because product costs, package specifications, shipping requirements, and destination-country charges vary considerably. Customers receive a written quotation or invoice before payment."
+  },
+  "disclaimer": "These ranges represent estimated service fees only and may not include the product cost, international freight, courier charges, insurance, customs duties, import taxes, payment-processing charges, remote-area surcharges, or other third-party costs.",
+  "individualTier": {
+    "heading": "Individual Consumer Orders",
+    "items": [
+      {
+        "id": "it1",
+        "label": "Basic procurement and order coordination",
+        "price": "approximately $25–$75"
+      },
+      {
+        "id": "it2",
+        "label": "Product inspection and documentation",
+        "price": "approximately $20–$60"
+      },
+      {
+        "id": "it3",
+        "label": "Packaging and fulfillment coordination",
+        "price": "approximately $25–$100"
+      },
+      {
+        "id": "it4",
+        "label": "Complex, customised, or high-value orders",
+        "price": "custom quotation"
+      }
+    ]
+  },
+  "businessTier": {
+    "heading": "Business and Bulk Orders",
+    "items": [
+      {
+        "id": "bt1",
+        "label": "B2B procurement and fulfillment setup",
+        "price": "approximately $100–$500"
+      },
+      {
+        "id": "bt2",
+        "label": "Bulk-order coordination",
+        "price": "custom quotation"
+      },
+      {
+        "id": "bt3",
+        "label": "Recurring fulfillment arrangements",
+        "price": "custom quotation"
+      },
+      {
+        "id": "bt4",
+        "label": "Customised packaging and special handling",
+        "price": "custom quotation"
+      }
+    ]
+  },
+  "pricingFactors": {
+    "heading": "Final pricing may depend on:",
+    "items": [
+      {
+        "id": "pf1",
+        "label": "Product category and value"
+      },
+      {
+        "id": "pf2",
+        "label": "Quantity"
+      },
+      {
+        "id": "pf3",
+        "label": "Product availability"
+      },
+      {
+        "id": "pf4",
+        "label": "Weight and dimensions"
+      },
+      {
+        "id": "pf5",
+        "label": "Destination country"
+      },
+      {
+        "id": "pf6",
+        "label": "Selected shipping method"
+      },
+      {
+        "id": "pf7",
+        "label": "Inspection requirements"
+      },
+      {
+        "id": "pf8",
+        "label": "Packaging requirements"
+      },
+      {
+        "id": "pf9",
+        "label": "Customs documentation"
+      },
+      {
+        "id": "pf10",
+        "label": "Insurance"
+      },
+      {
+        "id": "pf11",
+        "label": "Special handling"
+      },
+      {
+        "id": "pf12",
+        "label": "Urgency"
+      }
+    ]
+  },
+  "form": {
+    "heading": "Request a Custom Quote",
+    "subheading": "Fill in the details below and we will respond with a written quotation within 1–2 business days.",
+    "submitNote": "This will open your email client with the pre-filled request. We respond within 1–2 business days."
+  }
+}

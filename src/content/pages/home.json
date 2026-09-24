@@ -1,0 +1,79 @@
+{
+  "stats": [
+    {
+      "value": "B2B & B2C",
+      "label": "Fulfillment Solutions",
+      "id": "D2_pqD_YqQPzCgewsdJ5v"
+    },
+    {
+      "value": "1–2 days",
+      "label": "Support Response Time",
+      "id": "PFdxcRNkYwndWC__DhoSM"
+    },
+    {
+      "value": "UK Ltd",
+      "label": "Registered Entity",
+      "id": "2iLLX6fBAaCqCoq50qKlM"
+    }
+  ],
+  "services": [
+    {
+      "title": "Product Procurement",
+      "desc": "We arrange physical products according to customer specifications, quantities and project requirements through our sourcing network.",
+      "id": "w7P57xBvy0GInj7Vjj1EX"
+    },
+    {
+      "title": "Custom Order Fulfillment",
+      "desc": "We coordinate each approved customer order from procurement through preparation and fulfillment according to the quotation and agreed requirements.",
+      "id": "aeyIZLt7Qa3H8zkP1_t9s"
+    },
+    {
+      "title": "Regulatory Compliance",
+      "desc": "Orders and shipments are coordinated subject to applicable legal, customs, carrier, and destination-country requirements.",
+      "id": "2yW_OpJkcN6_e5JWk6Oo9"
+    },
+    {
+      "title": "International Shipment",
+      "desc": "After an order is prepared, Arseen Enterprises LTD coordinates international shipment through appropriate independent logistics providers.",
+      "id": "W_2qsHGGfAMCpaGX04nkk"
+    }
+  ],
+  "steps": [
+    {
+      "num": "01",
+      "title": "Submit Requirements",
+      "desc": "Provide your product specifications, quantity, destination and fulfillment requirements.",
+      "id": "0P9t8jMmgYsIkgOh-cGZX"
+    },
+    {
+      "num": "02",
+      "title": "Receive a Quotation",
+      "desc": "We review availability and provide a written quotation covering all order and shipping details.",
+      "id": "dDpNQH9_vv_abhrjVVF0O"
+    },
+    {
+      "num": "03",
+      "title": "Approve & Pay",
+      "desc": "Review and accept the quotation, then pay Arseen Enterprises LTD for the approved order.",
+      "id": "R9XPebtA_6aUtrtCZciCS"
+    },
+    {
+      "num": "04",
+      "title": "Procurement",
+      "desc": "We coordinate procurement of your requested products through our sourcing network.",
+      "id": "JuiXmbVRdp1VJaiT3t5oh"
+    },
+    {
+      "num": "05",
+      "title": "Order Preparation",
+      "desc": "The order is inspected, consolidated, prepared and packaged for international shipment.",
+      "id": "pcnujpfvThU7V-qJ95Wnm"
+    },
+    {
+      "num": "06",
+      "title": "Shipment & Tracking",
+      "desc": "We coordinate shipment and provide tracking information through to delivery.",
+      "id": "KcyyvDx-ZuRXme05pR0wp"
+    }
+  ]
+}

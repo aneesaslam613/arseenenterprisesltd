@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "eyebrow": "UK Ltd · Est. 2026",
+    "heading": "About Arseen Enterprises LTD",
+    "intro": "Arseen Enterprises LTD is a UK-registered private limited company providing custom product procurement and international order fulfillment services for business clients (B2B) and individual consumers (B2C)."
+  },
+  "whoWeAre": {
+    "heading": "Who We Are — Custom Procurement & Order Fulfillment",
+    "paragraphs": [
+      "Arseen Enterprises LTD is a UK-registered private limited company providing custom product procurement and international order fulfillment services. We serve both business clients (B2B) and individual consumers (B2C).",
+      "Our role is to coordinate customer-specific procurement, order preparation, packaging, international shipment and tracking through our sourcing and logistics network. Customers contract with and pay Arseen Enterprises LTD for their approved orders. Arseen Enterprises LTD coordinates procurement and fulfillment and bears the applicable procurement, processing and logistics costs associated with fulfilling those orders.",
+      "Independent suppliers, procurement coordinators and logistics providers support our fulfillment operations but do not separately collect customer payments through our website.",
+      "Our services operate primarily on a custom-order basis. Because products are procured according to customer requirements, we do not maintain a fixed online product catalog covering every item that may be requested. Customers contact us with their requirements and receive a quotation before placing an order."
+    ]
+  },
+  "companyDetails": {
+    "heading": "Company Details",
+    "note": "Verified active entity — Companies House, England & Wales"
+  },
+  "procurementScope": {
+    "heading": "Procurement Scope — What We Procure",
+    "intro": "We assist customers with procurement across general merchandise categories according to their specific requirements and applicable regulations. Examples may include:",
+    "items": [
+      {
+        "id": "ps1",
+        "label": "Consumer goods"
+      },
+      {
+        "id": "ps2",
+        "label": "Home & lifestyle products"
+      },
+      {
+        "id": "ps3",
+        "label": "Office & business supplies"
+      },
+      {
+        "id": "ps4",
+        "label": "Packaging materials"
+      },
+      {
+        "id": "ps5",
+        "label": "Promotional merchandise"
+      },
+      {
+        "id": "ps6",
+        "label": "Fashion & accessories where legally permitted"
+      },
+      {
+        "id": "ps7",
+        "label": "General merchandise"
+      },
+      {
+        "id": "ps8",
+        "label": "Custom sourcing requests"
+      }
+    ],
+    "note": "Product sourcing is subject to supplier availability, destination-country requirements, applicable laws and our internal acceptance criteria."
+  },
+  "coreValues": {
+    "heading": "Core Values — What We Stand For",
+    "items": [
+      {
+        "id": "cv1",
+        "text": "Transparency in every procurement and fulfillment operation"
+      },
+      {
+        "id": "cv2",
+        "text": "Professionalism and regulatory compliance"
+      },
+      {
+        "id": "cv3",
+        "text": "Reliable coordination across international sourcing and logistics networks"
+      },
+      {
+        "id": "cv4",
+        "text": "Tailored solutions based on customer requirements"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Why Choose Us",
+    "items": [
+      {
+        "id": "wcu1",
+        "title": "Regulatory Compliance",
+        "desc": "We operate under a formally registered UK private limited company structure, maintaining full legal and financial transparency. Procurement and fulfillment activities are conducted subject to applicable UK and international legal, sanctions, customs, export-control, carrier, and destination requirements."
+      },
+      {
+        "id": "wcu2",
+        "title": "Operational Transparency",
+        "desc": "Customers receive written quotations before payment, clear order documentation, and honest communication at every stage. We believe trust is built through consistent, verifiable action — not promises."
+      },
+      {
+        "id": "wcu3",
+        "title": "International Reach",
+        "desc": "We coordinate procurement and fulfillment across international sourcing and logistics networks, helping business clients (B2B) and individual consumers (B2C) receive their orders worldwide."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Work With Us?",
+    "body": "Let's discuss how Arseen Enterprises LTD can support your fulfillment needs."
+  }
+}

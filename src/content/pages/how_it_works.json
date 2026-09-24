@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "q": "How long does procurement and fulfillment take?",
+      "a": "Processing times vary by order complexity. Standard orders typically take 3–7 business days to process before dispatch. Procurement orders may take 5–10 business days. Delivery estimates are provided in your written quotation.",
+      "id": "l3PfAhKxeZ_xGVnFXTKg-"
+    },
+    {
+      "q": "Do you provide tracking?",
+      "a": "Yes. Tracking information is normally provided after the shipment has been accepted and processed by the applicable logistics provider. Tracking activation may take approximately 24–72 hours after dispatch.",
+      "id": "-Sz717JiZHWbP0Or7DOlj"
+    },
+    {
+      "q": "What types of customers do you serve?",
+      "a": "We serve both business clients (B2B) and individual consumers (B2C). Our services are available to customers internationally, subject to applicable legal and compliance requirements.",
+      "id": "FXTRy9SK3hA5FVkQ8r8H_"
+    },
+    {
+      "q": "Do you maintain a product catalog?",
+      "a": "Our services operate primarily on a custom-order basis. Because products are procured according to customer requirements, we do not maintain a fixed online product catalog. Customers contact us with their requirements and receive a quotation before placing an order.",
+      "id": "uoOMmcizdcZ5C_4cuu2EZ"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carriers": [
+    "DHL",
+    "FedEx",
+    "UPS",
+    "USPS (United States Postal Service)",
+    "Royal Mail",
+    "Canada Post",
+    "Australia Post",
+    "China Post EMS",
+    "YunExpress",
+    "4PX",
+    "Cainiao",
+    "SF Express",
+    "Aramex",
+    "DPD",
+    "and other suitable providers"
+  ]
+}

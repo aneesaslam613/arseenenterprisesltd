@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "eyebrow": "Get In Touch",
+    "heading": "Get In Touch",
+    "intro": "Contact Arseen Enterprises LTD for procurement requests, fulfillment inquiries, and custom quotations for businesses and individual customers."
+  },
+  "details": {
+    "companyName": "ARSEEN ENTERPRISES LTD",
+    "entityNote": "UK Private Limited Company · Active",
+    "address": "Office 1878 85 Dunstall Hill\nWolverhampton, WV6 0SR\nUnited Kingdom",
+    "email": "support@arseenenterprises.co.uk",
+    "emailNote": "Primary business contact",
+    "responseTime": "1–2 business days\nMonday – Friday, business hours",
+    "entityType": "Private Limited Company (Ltd)",
+    "jurisdiction": "Registered in England & Wales",
+    "companyNumber": "Company Number: 17474730"
+  },
+  "hours": {
+    "heading": "Business Hours",
+    "weekdays": "Monday – Friday",
+    "weekdayHours": "9:00 AM – 6:00 PM",
+    "weekend": "Saturday – Sunday",
+    "weekendHours": "Closed",
+    "note": "Email responses within 1–2 business days"
+  },
+  "serviceArea": {
+    "heading": "Service Area",
+    "desc": "International — we coordinate customer-specific product procurement, order fulfillment, and shipment support for business clients and selected individual customers.",
+    "regions": [
+      {
+        "id": "r1",
+        "label": "North America"
+      },
+      {
+        "id": "r2",
+        "label": "Europe"
+      },
+      {
+        "id": "r3",
+        "label": "Middle East"
+      },
+      {
+        "id": "r4",
+        "label": "Asia Pacific"
+      }
+    ]
+  },
+  "inquiryTypes": {
+    "heading": "Types of Inquiries We Handle",
+    "items": [
+      {
+        "id": "iq1",
+        "title": "Procurement & Fulfillment Requests",
+        "desc": "Submit your product procurement and fulfillment requirements and we will review the request and prepare an appropriate quotation."
+      },
+      {
+        "id": "iq2",
+        "title": "Partnership Opportunities",
+        "desc": "Interested in a procurement, fulfillment, or business collaboration? We welcome B2B and B2C collaboration inquiries."
+      },
+      {
+        "id": "iq3",
+        "title": "General Business Inquiries",
+        "desc": "Questions about our services, processes, or capabilities? Our team is ready to assist."
+      }
+    ]
+  },
+  "compliance": {
+    "heading": "Business Compliance Statement",
+    "body": "ARSEEN ENTERPRISES LTD is a registered UK private limited company (Company Number: 17474730). All business communications are handled professionally and confidentially. Arseen Enterprises LTD conducts its operations subject to applicable legal, customs, sanctions, export-control, carrier, destination-country, and payment-provider requirements. Orders may be declined where applicable compliance requirements cannot be satisfied."
+  },
+  "cta": {
+    "heading": "Ready to Start a Conversation?",
+    "body": "Email us directly and our team will respond within 1–2 business days."
+  }
+}

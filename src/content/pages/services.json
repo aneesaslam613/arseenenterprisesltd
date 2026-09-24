@@ -1,0 +1,40 @@
+{
+  "services": [
+    {
+      "title": "Product Procurement",
+      "desc": "We arrange physical products according to customer specifications, quantities and project requirements through our sourcing network. Each procurement request is reviewed for availability and fulfillment requirements before a quotation is provided.",
+      "href": "/services",
+      "id": "3yIZ7m48KJ5TQgg58WMaW"
+    },
+    {
+      "title": "Custom Order Fulfillment",
+      "desc": "We coordinate each approved customer order from procurement through preparation and fulfillment according to the quotation and agreed requirements.",
+      "href": "/services",
+      "id": "lz1Ji8etOQGrl_MBcTCka"
+    },
+    {
+      "title": "Product Inspection Coordination",
+      "desc": "Where applicable, inspection, photographs, videos or other reasonable verification may be coordinated before shipment.",
+      "href": "/services",
+      "id": "3-bx_P-CU5OkRfexp1LLg"
+    },
+    {
+      "title": "Packaging & Order Preparation",
+      "desc": "Products are consolidated, prepared and packaged according to applicable order and transportation requirements before shipment.",
+      "href": "/services",
+      "id": "6GXHfpEKz_kNOAlVdJYBE"
+    },
+    {
+      "title": "International Shipment Coordination",
+      "desc": "After an order is prepared, Arseen Enterprises LTD coordinates international shipment through appropriate independent logistics providers as part of the fulfillment process.",
+      "href": "/services",
+      "id": "j4jRV5IE6x2fbmsHa0v0p"
+    },
+    {
+      "title": "Tracking & Delivery Support",
+      "desc": "Tracking information is provided when available, and we assist customers with shipment-status information throughout the delivery process.",
+      "href": "/services",
+      "id": "bBnopdD3c_197DOSv6use"
+    }
+  ]
+}
